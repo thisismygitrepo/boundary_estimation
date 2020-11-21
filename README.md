@@ -1,6 +1,12 @@
 # boundary_estimation
-This repository provides some, but not all, metadata related to the work presented here:
+This repository provides some, but not all, metadata related to the work entitled:
 
+## Operational Learning-based Boundary Estimation in Electromagnetic Medical Imaging
+
+Authors:
+```
+A. Al-Saffar, A. Zamani, IEEE Member, A. Stancombe, IEEE Student Member, and A. Abbosh, IEEE Senior Member
+```
 
 
 # Data
