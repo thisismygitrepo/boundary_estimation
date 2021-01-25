@@ -12,12 +12,15 @@ A. Al-Saffar, A. Zamani, IEEE Member, A. Stancombe, IEEE Student Member, and A. 
 
 The model proposed is implemented in Pytorch as uses serveral other libraries.
 
+* `alexlib==1.8`
 * `tensorflow==2.3`
 * `numpy==1.16`
 * `matplotlib==1.5.1`
 * `scipy==1.2.1`
 
-Setup
+Other smaller packages can be see in `requirements_lenient.txt`.
+
+# Setup
 
 To install the package, simply clone the repository:
 
